@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_perm_identity_24"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_Message"
+            android:icon="@drawable/ic_baseline_message_24"
+            android:title="Message" />
+        <item
+            android:id="@+id/nav_sunscreen"
+            android:icon="@drawable/ic_baseline_wb_sunny_24"
+            android:title="Sunscreen" />
+</group> </menu>

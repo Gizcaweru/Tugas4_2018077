@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas4</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation  Drawer</string>
+    <string name="isi">SUNSCREEN adalah Tabir surya untuk menghalangi pengaruh cahaya matahari</string>
+    <string name="Penggunaan">setiap ingin keluar ruangan atau rumah yang berkenaan dengan sinar matahari</string>
+    <string name="isi1">SUNSCREEN adalah Tabir surya untuk menghalangi pengaruh cahaya matahari</string>
+    <string name="penggunaan">setiap ingin keluar ruangan atau rumah yang berkenaan dengan sinar matahari</string>
+    <string name="isi2">SUNSCREEN adalah Tabir surya untuk menghalangi pengaruh cahaya matahari</string>
+    <string name="Kegunaan">kegunaan</string>
+</resources>
